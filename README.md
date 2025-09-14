@@ -18,7 +18,7 @@ This repository contains **comprehensive Oracle SQL interview preparation notes*
 
 ## 🎥 Learn with Videos  
 - **Q1–Q15** → Already explained on my YouTube channel: [Cre8tive Minds Lab](https://www.youtube.com/@Cre8tiveMindsLab)  
-- **Q16–Q40** → Solutions available here as PDF. I will also publish **video explanations soon** on YouTube.  
+- **Q16–Q40** → Solutions available here as PDF. Also Refer Explanation on YouTube. 
 
 ---
 
