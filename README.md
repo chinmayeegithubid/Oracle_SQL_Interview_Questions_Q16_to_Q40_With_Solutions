@@ -23,4 +23,4 @@ This repository contains **comprehensive Oracle SQL interview preparation notes*
 ---
 
 👩‍💻 **Author:** Chinmayee Nayak  
-💡 Passionate about **Data Science, Data Engineering, Generative AI, and Database Development**
+💡 Passionate about **Data Science, Data Engineering,AI Engineer, Generative AI(LLM), and Database Development**
